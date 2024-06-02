@@ -1,0 +1,16 @@
+{
+    "name": "Attribute",
+    "rootNamespace": "",
+    "references": [
+        "GUID:656e7a4d2332944498341518179e585a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
